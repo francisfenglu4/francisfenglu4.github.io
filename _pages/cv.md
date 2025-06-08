@@ -11,23 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. from Johns Hopkins University, Baltimore, MD 2024
+  * Major in Data Science
+
+* B.S. from Johns Hopkins University, Baltimore, MD 2023
+  * Primary Major in Applied Math and Statistics
+  * Secondary Major in Economics
+  * Minor in Computer Science
+
+* GPA 3.79
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2024 - present: Bioinformatics Analyst
+  * Dana Farber Cancer Institute / Center for Functional Cancer Epigenetics
+  * Primary Responsibilities: algorithem development, data analysis, pipeline running
+  * Supervisor: Prof. Myles Brown / Dr. Henry Long
+  * Skills: 
 
-* Fall 2015: Research Assistant
+* Feb 2024 - July 2024: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Jun 2023 - May 2024: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
