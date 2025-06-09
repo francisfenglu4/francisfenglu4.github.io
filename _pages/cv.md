@@ -30,14 +30,14 @@ Work experience
   * Skills: 
 
 * Feb 2024 - July 2024: Research Assistant
-  * GitHub University
+  * Johns Hopkins University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Susu Xu
 
 * Jun 2023 - May 2024: Research Assistant
-  * GitHub University
+  * Johns Hopkins University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Adrian Haith
   
 Skills
 ======
@@ -62,10 +62,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Aug 2022 - May 2023: Course Assisstant of Intro to Algorithms
+    * Supervisor: Professor Git
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
