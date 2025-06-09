@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. from Johns Hopkins University, Baltimore, MD 2024
+* M.S. from Johns Hopkins University, Baltimore, MD,  2023 - 2024
   * Major in Data Science
 
-* B.S. from Johns Hopkins University, Baltimore, MD 2023
+* B.S. from Johns Hopkins University, Baltimore, MD, 2019 - 2023
   * Primary Major in Applied Math and Statistics
   * Secondary Major in Economics
   * Minor in Computer Science
@@ -27,26 +27,28 @@ Work experience
   * Dana Farber Cancer Institute / Center for Functional Cancer Epigenetics
   * Primary Responsibilities: algorithem development, data analysis, pipeline running
   * Supervisor: Prof. Myles Brown / Dr. Henry Long
-  * Skills: 
+  * Skills: scATAc-seq; RNA-seq; High Dimentional Statistics
 
 * Feb 2024 - July 2024: Research Assistant
-  * Johns Hopkins University
-  * Duties included: Merging pull requests
+  * Johns Hopkins University, Department of Civil Engeneering
   * Supervisor: Professor Susu Xu
 
 * Jun 2023 - May 2024: Research Assistant
-  * Johns Hopkins University
-  * Duties included: Tagging issues
+  * Johns Hopkins University, Department of Neurology
   * Supervisor: Professor Adrian Haith
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatic  
+  * scATAC-seq scRNA-seq
+  * Bowtie, BWT, enrichment analysis, GO
+* Statistics 
+  
+* Computer Science: 
+  * Coding Language: Python, RMatlab,  C, C++，LDA, SVM, K-means, CNN
+  * Algorithms: Deep Learning, LDA, SVM, K-means, CNN
+
+
 
 Publications
 ======
@@ -54,17 +56,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
 * Aug 2022 - May 2023: Course Assisstant of Intro to Algorithms
-    * Supervisor: Professor Git
-
-Service and leadership
+    * Supervisor: Professor Gagan Garg 
+    
+    
+Relevant Coursework    
 ======
-* Currently signed in to 43 different slack teams
+* Genetics
+* High Dimensional Statistical learning (PhD level)
+* Non-linear Optimization (PhD level)
+* Deep learning
+* Mathematical Image Analysis
+
+
+
+Research Interests
+======
+
