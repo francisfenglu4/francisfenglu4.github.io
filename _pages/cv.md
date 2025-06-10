@@ -40,13 +40,15 @@ Work experience
 Skills
 ======
 * Bioinformatic  
-  * scATAC-seq scRNA-seq
-  * Bowtie, BWT, enrichment analysis, GO
-* Statistics 
-  
+  * Data types: scATAC-seq scRNA-seq (and bulk)
+  * Tools: Bowtie, BWA, MACS2
+* Statistics & Data Analysis
+  * Statistical modeling, hypothesis testing, regression, PCA, clustering
+  * Sequencing data normalization and batch correction (e.g., CPM, TPM, quantile normalization, TMM)
 * Computer Science: 
-  * Coding Language: Python, RMatlab,  C, C++，LDA, SVM, K-means, CNN
-  * Algorithms: Deep Learning, LDA, SVM, K-means, CNN
+  * Coding Language: R, Python (Pytorch, Numpy, Sklearn, Pandas, Matplotlib), Shell, MATLAB, C/C++, JAVA, LaTeX
+  * Algorithms: Deep Learning, Spectral Clustering, K-means, CNN
+  * Software Development: Version control (Git), debugging, performance optimization
 
 
 
@@ -71,8 +73,10 @@ Relevant Coursework
 * Deep learning
 * Mathematical Image Analysis
 
-
-
-Research Interests
+Supplementary Learning
 ======
+* Advanced Analysis Course: Transcriptomic Data Analysis 
+* Advanced Analysis Course: Single-Cell Transcriptomic Data Analysis
+* Advanced Analysis Course: Epigenomic Data Analysis (by Dr. Haowei Meng)
+
 

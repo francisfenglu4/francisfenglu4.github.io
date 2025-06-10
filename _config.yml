@@ -39,7 +39,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=jG_wW2gAAAAJ&gmla=AH8HC4ysOge4-zQ12NWFBHSeBZxIPfdDG9zds25bX623v6ausbVROfG0B1maKHVxFYDbpSsyVYNmwYRiFOc5ANHS7l9lx586eQvqKR0oSn-s13Nm"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
