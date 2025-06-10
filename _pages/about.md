@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Personal Web under development (Jun/10/2025)
 
-About Francis 
+About Me 
 ======
 
 I am passionate about bridging the gap between **bioinformatics**, **applied mathematics**, and **algorithms**, and I am actively exploring opportunities at their intersection.
